@@ -1,0 +1,95 @@
+
+
+
+body
+{
+	background-image: url('background');
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center ;
+	height : auto;
+	width: auto;
+	font-style: oblique;
+}
+
+::-webkit-scrollbar {
+	display: none;
+	}
+
+p
+{
+	font-size: 1.2vw;
+}
+
+#acc_user
+{
+	font-size: 2.5em;
+	color:#FC15E3;
+}
+
+.container
+{
+	width: 55%;
+	margin: auto;
+	background: #FFC7FB;
+	padding: 15px;
+}
+
+.info_container
+{
+	font-size: 1vw;
+	color : black;
+}
+
+.lien_oiseau
+{
+	text-decoration: none;
+	color: black;
+	font-size: 1.5vw;
+}
+
+.header
+{
+	font-size: 1.5vw;
+}
+
+.foot_first
+{
+	text-align: center;
+	padding-top: 21%;
+}
+
+form
+{
+	padding-top: 10%;
+}
+
+.textarea
+{
+	height: auto;
+	width: auto;
+	padding: 12px 20px;
+	margin: 8px 15px;
+	border-radius: 4px;
+  opacity: 0.3;
+}
+
+.textarea:hover
+{
+  opacity: 1;
+}
+
+.boutton
+{
+  opacity: 0.3 ;
+	border-radius: 50%;
+	background-color: #FEE9FD ;
+	cursor: pointer;
+	padding: 5px 5px 5px 5px ;
+}
+
+.boutton:hover
+{
+  opacity: 1;
+	transform: scale(1.3);
+}

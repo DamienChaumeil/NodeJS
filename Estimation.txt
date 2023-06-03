@@ -1,0 +1,12 @@
+Créer un serveur http node js sur le port 10000 15 min 
+
+faire une page d'acceuil qui demande le prénom de l'utilisateur 1h
+
+récupérer et afficher le prénom avec le texte demandé 1h
+
+faire des liens qui rémène vers l'image d'un piaf  1h 
+
+afficher des logs dans console a chaque action du serveur 
+
+
+bonus : intégrer une page web
